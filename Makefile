@@ -12,4 +12,4 @@ install:
 	ppm --no-intro --no-prompt --fix-conflict --install="build/net.intellivoid.website_template.ppm"
 
 install_fast:
-	ppm --no-intro --no-prompt --fix-conflict --skip-dependencies --install="build/net.intellivoid.website_template"
+	ppm --no-intro --no-prompt --fix-conflict --skip-dependencies --install="build/net.intellivoid.website_template.ppm"
